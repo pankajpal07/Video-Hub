@@ -2,7 +2,7 @@
   "name": "two",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/Bhardwaj-Devesh/Video-Hub.git",
+  "homepage": "https://github.com/Bhardwaj-Devesh/Video-Hub",
   "dependencies": {
     "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.10.6",
